@@ -1,4 +1,4 @@
-# MIND-News-Article-Recommendation-System
+# Microsoft-MIND-News-Article-Recommendation-System
 
 INFO 442 Data Science Projects | Summer 2025 | Final Project
 
